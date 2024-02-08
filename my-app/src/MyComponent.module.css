@@ -1,0 +1,55 @@
+.red {
+	color: rgb(67, 207, 98);
+	margin: auto;
+	background-color: #0c0c0e;
+	box-shadow: inset 0px 0px 0px 10px rgba(26, 50, 31, 0.25);
+	text-align: center;
+	line-height: 50px;
+	border: 4px solid #286b32;
+}
+
+.white {
+	color: white;
+	margin: auto;
+	background-color: #0c0c0e;
+	text-align: center;
+	line-height: 50px;
+	border: 4px solid #3d3f3d;
+	width: 250px;
+	word-wrap: break-word;
+}
+.calculator {
+	margin: 25%;
+	background-color: rgb(18, 17, 16);
+	box-shadow: 1px 5px 5px 5px #101111;
+	border: 4px solid #191818;
+}
+
+.span {
+	font-size: 25px;
+	top: 50px;
+	margin: 50px;
+	text-align: right;
+	width: 50px;
+}
+
+button {
+	background: hsl(181, 59%, 15%);
+	font-size: 20px;
+	color: rgb(117, 113, 215);
+	border-radius: 7px;
+	box-shadow: 0 5px 0px #676769;
+	transition: all 0.2s;
+	padding: 15px 20px;
+	cursor: pointer;
+	margin: 7px 5px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.divOperators {
+	color: white;
+	border-radius: 5px;
+	width: 290px;
+	padding: 15px 12px;
+	top: 0;
+}
